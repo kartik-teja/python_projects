@@ -1,0 +1,5 @@
+1. install scrapy on your computer
+2. verify the install by running scrapy on the terminal
+3. create a project using the scrapy startproject (name)
+4. cd (name)
+5. scrapy genspider example example.com
